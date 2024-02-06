@@ -6,7 +6,6 @@ Fullstack Developer
 
 🚀 Passionate Fullstack Developer with expertise in React, Next, Express, MongoDB, TypeScript, Tailwind, Flutter and Firebase. <br>💻 Committed to crafting code that excels in readability, reusability, scalability, and maintainability. <br>🌐 Beyond coding, I'm deeply passionate about system design, AI, and cybersecurity.
 
-* 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [erenkuek1106@gmail.com](mailto:erenkuek1106@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Interesting projects
