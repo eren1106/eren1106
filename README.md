@@ -9,6 +9,7 @@ Fullstack Developer
 * ✉️  You can contact me at [erenkuek1106@gmail.com](mailto:erenkuek1106@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Interesting projects
+* 🌐  Learn more about me at here: [My Portfolio Website](https://erenkuek.vercel.app/)
 
 ### Skills
 
